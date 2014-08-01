@@ -1,4 +1,4 @@
-# CustomGridViewAdvanced
+# CustomGridViewAdvancedAutoNumberOfImages
 
 ###What this project do :: 
 
@@ -7,12 +7,12 @@
 ========================
 
 ### PortraitMode View
-![CustomGridViewAdvanced-Portrait](https://github.com/devrath/CustomGridViewAdvanced/blob/master/snapshot_portrait.gif)          
+![CustomGridViewAdvanced-Portrait](https://github.com/devrath/CustomGridViewAdvancedAutoNumberOfImages/blob/master/snapshot_portrait.gif)          
 
 ========================
 
 ### LandscapeMode View
-![CustomGridViewAdvanced-Landscape](https://github.com/devrath/CustomGridViewAdvanced/blob/master/snapshot_landscape.gif)
+![CustomGridViewAdvanced-Landscape](https://github.com/devrath/CustomGridViewAdvancedAutoNumberOfImages/blob/master/snapshot_landscape.gif)
 
 ========================
 
