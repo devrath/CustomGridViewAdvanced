@@ -41,7 +41,7 @@
 * Tested in android emulator
 
 ### Download from DropBox
-[![Download from DropBox](https://dt8kf6553cww8.cloudfront.net/static/images/icons/blue_dropbox_glyph-vflJ8-C5d.png)](https://www.dropbox.com/s/z4u41hbuaylxys6/CustomGridView.rar)
+[![Download from DropBox](https://dt8kf6553cww8.cloudfront.net/static/images/icons/blue_dropbox_glyph-vflJ8-C5d.png)](https://www.dropbox.com/s/z6vvqa1k3gkq497/CustomGridViewAdvanced.rar)
 
 
 License
