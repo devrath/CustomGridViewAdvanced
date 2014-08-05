@@ -34,14 +34,20 @@
 
 ---
 
+## Usage
+
+* Download the project from the `GitHub` or the `DropBox` links 
+* Demo already has the `Jar` but if you are making a new project make sure you download the `Jar` from teh Link and add it to the `libs` folder in your project
+* And that is it !
+
+[![Download from DropBox](https://dt8kf6553cww8.cloudfront.net/static/images/icons/blue_dropbox_glyph-vflJ8-C5d.png)](https://www.dropbox.com/s/z6vvqa1k3gkq497/CustomGridViewAdvanced.rar)[![Download from DropBox](https://github.com/devrath/CustomGridViewFixedNoOfImages/blob/master/jarImage.png)](https://www.dropbox.com/s/387ce7bh3aa8u2y/GridViewHeader.jar)
+
+
 ## App Specifications
 
 * Minimum Sdk = 14
 * Compiled with = 19
 * Tested in android emulator
-
-### Download from DropBox
-[![Download from DropBox](https://dt8kf6553cww8.cloudfront.net/static/images/icons/blue_dropbox_glyph-vflJ8-C5d.png)](https://www.dropbox.com/s/z6vvqa1k3gkq497/CustomGridViewAdvanced.rar)
 
 
 License
